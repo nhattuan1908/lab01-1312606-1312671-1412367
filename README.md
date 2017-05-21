@@ -3,9 +3,9 @@
 **Name of your app** là một bài tập 1 tại môn ATBMHTTT. Bài tập yêu cầu sinh viên tạo cơ sở dữ liệu, phân quyền theo các yêu cầu.
 
 Thành viên:
-* [ ] **1312606** Nguyễn Khánh Toàn (NguyenKhanhToan)
-* [ ] **1412367** Hà Đình Nhân (dragon6426)
-* [ ] **1312671** Trần Nhất Tuấn (nhattuan1908)
+[ ] **1312606** Nguyễn Khánh Toàn (NguyenKhanhToan)
+[ ] **1412367** Hà Đình Nhân (dragon6426)
+[ ] **1312671** Trần Nhất Tuấn (nhattuan1908)
 
 ## Yêu cầu
 
@@ -14,7 +14,7 @@ Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm v
 Yêu cầu **GIT**
  [ ] Có sử dụng GIT.
  [ ] Sử dụng GIT theo Centralized Workflow.
- [*] Sử dụng GIT theo Feature Branch Workflow.
+ [.] Sử dụng GIT theo Feature Branch Workflow.
  [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
